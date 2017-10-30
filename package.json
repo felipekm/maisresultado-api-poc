@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-soap-poc",
+  "description": "POC to validade maisresultado communication between SOAP and NodejS",
+  "author": "Felipe Kautzmann <felipe.kautzmann@gmail.com>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipekm/nodejs-soap-poc.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipekm/nodejs-soap-poc/issues"
+  },
+  "homepage": "https://github.com/felipekm/nodejs-soap-poc#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "soap": "^0.23.0"
+  }
+}

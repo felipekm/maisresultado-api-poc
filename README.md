@@ -1,2 +1,2 @@
-# nodejs-soap-poc
-POC to validate NodeJS with SOAP
+# NodeJS x SOAP x maisresultado
+POC to validade maisresultado communication between SOAP and NodejS
